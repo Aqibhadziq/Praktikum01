@@ -1,2 +1,2 @@
-# Praktikum01
+#Praktikum-UI/UX
 Tugas Membuat CV
